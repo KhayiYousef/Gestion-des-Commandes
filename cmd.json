@@ -1,0 +1,28 @@
+{
+  "commandes": [
+    {
+      "name": "appel87",
+      "poids": "15555kg",
+      "price": "900dh",
+      "id": 9
+    },
+    {
+      "name": "khayi yousef",
+      "poids": "623434kg",
+      "price": "350000000000dh",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "Yousef Khayi",
+      "poids": "209999kg",
+      "price": "23090dh"
+    },
+    {
+      "id": 13,
+      "name": "appel6",
+      "poids": "10kg",
+      "price": "3500dh"
+    }
+  ]
+}

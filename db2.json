@@ -1,0 +1,39 @@
+{
+  "Clients": [
+    {
+      "id": 2,
+      "name": "Yousef2",
+      "email": "yousef2@gmail.com",
+      "salaire": "3005000dh",
+      "faidel": false
+    },
+    {
+      "id": 3,
+      "name": "Yousef3",
+      "email": "yousef3@gmail.com",
+      "salaire": "40000dh",
+      "faidel": true
+    },
+    {
+      "name": "Yousef Khayi",
+      "email": "youssef20live@gmail.com",
+      "salaire": "fjdfjdhfjfiuiruizeur",
+      "faidel": false,
+      "id": 4
+    },
+    {
+      "name": "khayi yousef",
+      "email": "youssef20live@gmail.com",
+      "salaire": "90000dh",
+      "faidel": true,
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "salaire": "",
+      "faidel": false,
+      "id": 6
+    }
+  ]
+}
